@@ -11,8 +11,6 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 <img align="center" alt="Rafa-SQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="center" alt="Rafa-SQL" height="60" width="70" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" />
 </div>
 
 ####
